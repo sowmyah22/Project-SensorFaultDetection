@@ -2,6 +2,6 @@ confluent-kafka
 requests
 six
 pandas
-pymongo[srv]==4.1.1
+pymongo[srv]==4.18.3
 dnspython
 -e .
